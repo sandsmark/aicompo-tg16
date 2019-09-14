@@ -1,14 +1,7 @@
-CHANGELOG:
-=========
-
-List of changes that **affect development of bots**:
-
- * Saturday 13.02.2016: Changed the value sent for the rotation of missiles from radians to degrees, to match the value sent for players.
- * Sunday 28.02.2016: Increased damage from missiles from 10 to 50 energy. Before this firing a homing missile or hovermine cost more than what you could gain from hitting something.
-
-
 Turn On Me
 ============
+
+![screenshot](/screenshot.png)
 
 This is a game where you circle a sun and try to shoot down the other players.
 
@@ -177,4 +170,12 @@ For Windows, OS X, etc.
  * Go to File -> New File or Project -> Import Project -> Git Clone
  * Use the repository URL https://github.com/sandsmark/aicompo-tg16.git
  * Click the green play button.
+
+CHANGELOG:
+=========
+
+List of changes that **affect development of bots**:
+
+ * Saturday 13.02.2016: Changed the value sent for the rotation of missiles from radians to degrees, to match the value sent for players.
+ * Sunday 28.02.2016: Increased damage from missiles from 10 to 50 energy. Before this firing a homing missile or hovermine cost more than what you could gain from hitting something.
 
